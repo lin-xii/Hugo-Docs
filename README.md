@@ -6,3 +6,4 @@ description: >-
 
 # what is Hugo?
 
+how to edit published page?
