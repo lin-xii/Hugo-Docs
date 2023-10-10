@@ -11,3 +11,4 @@
 ## Getting started
 
 * [Quick start](getting-started/quick-start.md)
+* [Configuration](getting-started/configuration.md)
